@@ -19,6 +19,9 @@ I'm a 1st year Information Technology student, fasinated towards cp and problem 
 
 rishika-raj
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishika-05&theme=algolia&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishika-05&theme=algolia&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishika-05&layout=compact&theme=algolia&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rishika-05&repo=Simple-Calculator&theme=algolia&show_icons=true&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)-->
