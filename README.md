@@ -1,11 +1,12 @@
 ### Hi there 👋, I'm Rishika Raj.
 </br>
-
 <!--
 **Rishika-05/Rishika-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  👯 I’m looking to collaborate on various projects 
 Here are some ideas to get you started:
 -->
+
+![](https://komarev.com/ghpvc/?username=rishika-05&color=blueviolet)
 
 I'm a 1st year Information Technology student, fasinated towards cp and problem solving.    : ' )
 - 🔭 I’m currently working on : Web Development.
