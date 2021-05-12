@@ -17,3 +17,5 @@ I'm a 1st year Information Technology student, fasinated towards cp and problem 
 - ⚡ Fun fact: Right now  I've kept you busy reading this.    : - P 
 
 rishika-raj
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishika-05)](https://github.com/anuraghazra/github-readme-stats)
