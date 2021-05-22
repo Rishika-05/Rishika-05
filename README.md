@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 
 I'm a 1st year Information Technology student, fasinated towards cp and problem solving.    : ' )
 - 🔭 I’m currently working on : Web Development.
-- 🌱 I’m currently learning : web scrapping
-- 🤔 I’m looking for help with web scraping.
+- 🌱 I’m currently learning : web development
+- 🤔 I’m looking for help with web development.
 - 💬 Ask me about : Anything (expect my personal life, duh..!!!)
 - 📫 How to reach me: ✔[Linkedin](https://www.linkedin.com/in/rishika-raj-79b970200/)  ✔[Mail](mailto:rishikaraj7263@gmailcom)
 - 😄 Pronouns: She / Her
