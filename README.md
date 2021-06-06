@@ -9,9 +9,9 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=rishika-05&color=blueviolet)
 
 I'm a 1st year Information Technology student, fasinated towards cp and problem solving.    : ' )
-- 🔭 I’m currently working on : Web Development.
-- 🌱 I’m currently learning : web development
-- 🤔 I’m looking for help with web development.
+- 🔭 I’m currently working on : DSA.
+- 🌱 I’m currently learning : DSA
+- 🤔 I’m looking for help with DSA.
 - 💬 Ask me about : Anything (expect my personal life, duh..!!!)
 - 📫 How to reach me: ✔[Linkedin](https://www.linkedin.com/in/rishika-raj-79b970200/)  ✔[Mail](mailto:rishikaraj7263@gmailcom)
 - 😄 Pronouns: She / Her
