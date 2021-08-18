@@ -5,7 +5,7 @@
  👯 I’m looking to collaborate on various projects 
 Here are some ideas to get you started:
 -->
-<!-- <img align="center" src="https://komarev.com/ghpvc/?username=rishika-05&color=blueviolet" alt="rishika-05"/> -->
+
 ![](https://komarev.com/ghpvc/?username=rishika-05&color=blueviolet)
 
 I'm a 1st year Information Technology student, fasinated towards cp and problem solving.    : ' )
