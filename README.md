@@ -12,7 +12,7 @@ I'm a 1st year Information Technology student, fasinated towards cp and problem 
 <!-- 🔭 I’m currently working on : DSA.-->
 - 🌱 I’m currently learning **DSA.**
 - 🤔 I’m looking for help with **DSA.**
-- 💬 Ask me about **Cpp, Web development, Python.**
+- 💬 Ask me about **C++,DSA & Web development.**
 - 📫 How to reach me: ✔[Linkedin](https://www.linkedin.com/in/rishika-raj-79b970200/)  ✔[Mail](mailto:rishikaraj7263@gmailcom)
 - 😄 Pronouns: She / Her
 - ⚡ Fun fact: Right now  I've kept you busy reading this.    : - P 
