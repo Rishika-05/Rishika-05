@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=rishika-05&color=blueviolet)
 
-I'm a 1st year Information Technology student, fasinated towards cp and problem solving.    : ' )
+I'm a 2nd year Information Technology student, fasinated towards cp and problem solving.    : ' )
 <!-- 🔭 I’m currently working on : DSA.-->
 - 🌱 I’m currently learning **DSA.**
 - 🤔 I’m looking for help with **DSA.**
