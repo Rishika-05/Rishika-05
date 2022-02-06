@@ -40,7 +40,7 @@ rishika-raj
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishika-05&langs_count=10&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishika-05&theme=algolia&count_private=true&show_icons=true" alt="rishika-05" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishika-05&theme=algolia&count_private=false&show_icons=true" alt="rishika-05" /></p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishika-05&langs_count=10&layout=compact&theme=algolia" alt="rishika-05" /></p>
